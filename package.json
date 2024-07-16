@@ -16,6 +16,7 @@
     "prepare": "husky"
   },
   "dependencies": {
+    "@growthbook/growthbook": "^1.1.0",
     "classnames": "^2.5.1",
     "next": "14.2.4",
     "react": "^18.3.1",
